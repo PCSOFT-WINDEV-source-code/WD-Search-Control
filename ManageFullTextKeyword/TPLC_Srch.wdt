@@ -1,0 +1,104 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : TPLC_Srch
+ major_version : 28
+ minor_version : 0
+ type : 20
+ description : ""
+ subtype : 0
+window :
+ name : TPLC_Srch
+ identifier : 0x264b677d04b24307
+ internal_properties : CAAAAAgAAAAD9P6hsGc3au66iU7dRMryFkTlp/f/pL20bSUb5//oaoqNDcxB3AvW2fTb2viiZIkLNlcoLMjtD7B56GzhHm94Bgpo9fy+0KYkvSkSvKFajsyImXjTKQ/n2kddYgHODw4jHaa+qjgzwImRGQHBhMrY6cXxJir3r4RzQGaAWyCgTmuMUcz9NRyqxJD2t8lKLqkIaJXxDeoC2cUO2RWLh9pdcjNTsAieNaD8FdCEYS/LjoiQyIZHtZr32CA1lTZ3wYlJpxwCctvKWe1w28v0Y7hAsCflBnjBH69w9bmzSaxu6WulNJxRXD2NTCYF7f0BC2W36ToKOH+g0jy2oa1R5pUemfAL+86v+5d32KAUMK8vGWsi73iMbwyLOVzVuVh07DPNdWLLY/+BvzJpeUFjdZa77DYJ1T9RIkO92MQQIX640EBuqrEdwVflwAaPRZ+LR7sryS702582ZZBBqcdh1nh+2vpYEORdDPBDRaYisPb6qbQmaUKnodMlE3aPUsTRrnldIfS9HRo/OEzu2EXhfpkPuIaEYY1PofgjSyvru8RlhTFJkFd+Yfrh4ojBFriSeyEaOKISznKFYz7tWtFB0w1vtrS3Bfl38dGR1P1XO0vsitPZOh5RX2fPRvqvj02i/dQ80PZnLlAEhsFp
+ properties :
+  width : 589
+  height : 24
+ controls :
+  -
+    name : TPLC_Srch
+    identifier : 0x264b677d04b34307
+    internal_properties : CAAAAAgAAABNoriqpASKRAqhKRsyz+uf5+8HeTGoONrYYNqWLgAnVzF9PGvf2ZFzZvxtOAHdxAfcn/6+kzErqXhVi8kiyhdJCoOye/zqUXGuTiFhmFsFKpTG4l1doJnwNyCmUsOGkRhiShiNR10fZhrETFp8xR7hRNXMhUNvLqq3LcRQfUrkmP4DmFiCZWocsaAtAMzdrH3OqLHwmsJ2GuaG/JmQ9nYE48ck8ovvp8iq/LnY3RaMu1xweTGUUln2m0SrHY5U8atOzDrpgAKvZqtn1tmhxEkpyAPe2UssJPNvCriC80+lxh0rrCS2m/tgiaz/XYeWVJ7juf3og2Zr6gOW7QKNfwViICO8wV5ZrRhu2nHNQ/BhuzF8/Z5GyaI7MtrtV+t+GVOyQn2d8kalaEdPKgFhOuv8WGOnXve6WW6zKnZRznzZD39dYX0hxEwMTfyGf6JqS93cVCY9A2s7bVDBxjt+e0weNJWjqO7VQzLTZKw=
+    properties :
+     width : 589
+     height : 24
+    controls :
+     -
+       name : SearchInput
+       identifier : 0x264b677d04b44307
+       internal_properties : CAAAAAgAAABaLaCudCoVb4NTUKrcMLmWd7jl0DBOPRF83q+gcgDKq1hr9U2FzYoX3SPkNnFY9E8p3ftSRHHzj7TJzT4d+BVhfbgeyKLPUCWxd5dluU8+byFmuwp7FHumXQDHM0XQ4XUsf5F6HHHHW2yHmjzAosqkud5rJuQnn14pvfLPEut+ahFxoScOi1fiDTvP7aH3cxK8U+DieEvV1qgjzAlDcU/sxpJoDlwT5QM240VcK9KnAmxFo3ola8shuZPrnSI4EvexFJxR81bFTIj8WfuyPJmNUmcqu2xg8qCD+9OWHnyopAAcAGXD0/oP0QkI3lxHlEbGRJAXA55EuR18fp217fWE+iEqKFoePoSjsSX595qKQMRxoW178b1rSL7TUSZvzulUrFhOIir03ookGjOjhwr9S495BO1S1na5niOtAHrpoDCbkaUIpDmaGcTKA1dGyAwrZEFwdcuuFkpsG2VvI+S+aS16tWlZ1G8VuwGDmSnUxkXh6h1BG6FySlzevdkHQiscWaPpVooM+xjsnzmCfVF/emWx2ha/VPbkmpY5ONIirjgSr0AtRs9nleLT+slbMst2K5917iESUjZVnGXzKfwGoSxFwRHaXte3M043W8nO2kcww5pljqhy/Dr49Nf6yz8YyYo1SmvKQQDl2icaFWea8ieEeIh9/dml+bG6S0SzEZscbMOSYptCwoAGVBuhxhNMxCVlFLmz3OYLOK1sGfAMxs5t4PXqTEpGIQIR3sK3FqZPQecSNJk5uz9A5d31c95FFgYoNr8xCVkl/6ZyyfWg02ViyJscP98xObDhXboaGuCDztoM+UZiqSru2MmlARnEvkPWuu8cMcH8WT1LPaT40T3VrUChad99JWqw83w7zCwl/RKkbu+94NTzCZ0JLXaBGb46uubQk9Q+xx5dNJ6LEiM6Jce3zcJ5x/TW0Lhkj0+UOd8c/kPnLvx8A5qzjTBrrzdWy9c+d+7YriUSU2wmuYegRm7XBagceL6g+16IzWQ3FVC+R4SJwOVsvq2VKazkUJfseLxYLOS9fmBJekHE/rhUcAv+5DOw4uBemTklEFaz90ecroakUx9mH9VzqMd4Dfo6sJMulT8+mYNcy7Nj6VPVOobJslciM7gW57KR8+9dqXLJ5XnbubkKrNApcaXdsbRRuQeqErT+aVTo2BcUDQyglySL72YurNrL/M+uUXPZadFY2QQXuX8QnXIFDilDEy+riwSVSJk3M49vDBl/Cpzmhm+6aGUksP/ZhOZ+AWnsKTvFJl/fnAUEr5HbBHAyLG0GZVKKNT6d5lqLAvLS439lqHbDv1C0gIOXzX1BohrKkh0lsTrGwhEsqqZqU0fTwaiWha/rtd0CIZwz4eevUmmrJvkySlL9cNgNAByozIbjOIUde9s/w5hOcjlEiDKsGz5h09LKTcGAa7A0tYHhXgQvxHRMhOW4QPlniuOMc/nfcRLnc88mVlsNUCFH7/5DWexOJhFy7ca1YI8oUh0D+2VA4vyaNg1H3JzbjqpgFR/NFs1RfWGkQdPN7/qSrWtVUa6Pa9808hKuuCk+7yuc7JJnf+7C2ycxuAYApZQ+UKLvEJpwb1+2dUCoqBgw9332Ud0c7npadbBZkc38qA+lI78VW25C9mOMsBvVT5aRzY2SFhVzkoE82FWaGLwliShqwSmQEd6DZNHIHoJJ20PpukgB39NK3B2D8ja6iByItl0jiAI9CX8Yd58IVT/RREGQxmUe
+       properties :
+        x : 1
+        width : 579
+        height : 24
+       input :
+        internal_properties : CAAAAAgAAACNvDM2wQiqvwmWbIsZHRfzVAGANMwlyJZpVmSnjWosRCvoRlqgyVciZtuaEjhx/TZJ+njYPkPJqx7IuIE4kn0UPRO9iFDnhsHVv2m/WK2Lkw+0naEyrvtvWvR96+sZgbnbq1CC1QWB02dYllN30aQ888/lYp8JsYt3wWjnmIWTFr+f6PdGWdKtwi+7C15oB7hlusPGOqRnr4Qo6uKWTuBjDcnybFKrEd7pltDVmw9tuMH4iNAF5zh72d4R24fduLouf7JKrpMqIPriMoT0l1mgPKk+NGiXDHN/zXwcqALx6FwjXc2LeyAck9Jc8IfScSBQB4KudWPKEbiU8p12flfMEogtf9NO4HjLcRXfrQAQxHhl4Q1NDxzctoEZYPxD0HLjRP3H6JYcAYkLIZCKv/vdINdepOTsNT078FV460xcpuwWVm0FetQ1pni3qUgx+p6Krue6NihGfVMxtx4SxbzoJjr948KNEWcuIF+sjzilF8Fd5QLRrzigNPVyNfZMFXJhx6D7YmbIwlVrRPOEmAjZjnI/vM0n894Awgn0r/U29Ffkp0vGTMtlNX3YLM/Ud7A23Bt+QiAzWozVqnSvlhx+ucHMwuX8sBUoUPwdH/IDcmzMAwjULoWVoyE8PeaEQpKH
+        type : 2
+       dropdown :
+        internal_properties : CAAAAAgAAABkkTNv8qabIc5kacLzzC3PtXRj7wd40sjGD7lQ0K1N+kylJ8RFPIl2nVMhJNYOS27+mUGlFyN8WS2eYtsRTQj4wdgy637sI4O6gL53S8K06D6HZDq6HgoaFkA9kMX2ydO8BuRFDe/PGSQXpxEZJm0xNjOtGovEVowW5Dn8zwdoE6pjIJ9XlbcDoLffq+oPAzoptH/E3CYJGyx8bUZFsXbxCCZcrzPsQ8xCamh3csfjsdSe9ZIjAI5hJaKQo8OxCaSSM4MMTZOncWc1qHOu7jXNjmwPLpO3MiMxRd4hTD4ToaEHkdy7MJYjMsOdpslbCryKvXdUFw8gQv9bH6Dd0Rr+70avC3Z6aEFJBx0dd5qjZB3qot8Mm7jg7zy2DvEzaqjo5FnTn/cLp/CXhb1D2L+ET+nnj+KAxc5WHIjmXU+Mudv3cTSk7XeLv6BictZl8Gm4q3iV1rUY4egPbUxZTdzhX1TvyQKb0kqCZI9h+5VZe+ll0YvlSvxVH13ZfOBrVdK6UWTIfkEG6DqLC9oV6D+gbCa0xnMn3gk7sqi2Tp+ae3Zi4KR3jckFSYx5p+S6IeX7T5d9Zunv6efvYc0F1zM1xAlbisDHrE9xXfgGi/BL6OJBuf3cZ8glzhFs5GkvYmQ91QwHSdFABZaujhl0IAnq8q61OrhtX/ZSclPYGZewao0tKwNMhw9VrArHU6hkvVgg050FUcH6h4eB2i1zu1tEHJUeL7bkf6jJF+4D4axQHfFPJyeYc092BEMB2Wzu7t1SesoZ0rEMBXwk7+QWClPg
+        type : 7
+       type : 14
+       code_elements :
+        type_code : 23
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           type : 35
+           enabled : false
+         -
+           internal_properties : CAAAAAgAAADZ8BiJBT/A0YPggVOsKF6d3qBiEGM4AgWzTNLIlEPXb0xhRa2KCa+7tJv80dOmRU5j103bVu8ML9Jn2+h5rXveOJSCOEe8eiggEe9Csga5gH4zVr6wPDrliIFQuJySfacw7Eu/EbQoW5V/ysGcQZ8b0vmLTQ8SMxP+g5VIbVtW1Q==
+           code : |1-
+            //Some propositions must be made and adapted to the input performed by the user.
+            
+            //The space characters must be kept because they are used as separators between the sought words.
+            bManageSpaces is boolean= ControlNoSpace(False)
+            
+            //Manage the search propositions
+            //Save the input of the user and the position of the cursor.
+            sEdit is string = MySelf
+            nCursorPos is int=MySelf..Cursor
+            //Ask the component for the list of corresponding expressions
+            //The format of the result is as follows: <Expression>TAB<Number> Results+CR
+            sPropose is string = pManageSearchWord.SearchPropose(sEdit)
+            //Update the editable combo box.
+            ListDeleteAll(SearchInput)
+            ListAdd(SearchInput,Complete(sEdit,55," ")+TAB+"...")
+            ListAdd(SearchInput,sPropose)
+            //Force the opening of the combo box.
+            ComboOpen(SearchInput)
+            //Restore the edit control and the management of space characters as it operates in the project.
+            MySelf = sEdit
+            MySelf..Cursor=nCursorPos//Length(sInput)+1
+            ControlNoSpace(bManageSpaces)
+           type : 17
+    type : 42
+    code_elements :
+     type_code : 92
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x2a250e571e4f9a9e
+  internal_properties : CAAAAAgAAAAjoO+VYAXYh2SYpTvD7AgXCHEHRjuTd5K/qNR3zUpM1aIlQYejrbtK76/LWLozAhgdmcRuoxDXe7vi3lf8PoZYYzNtPYlgCK9AarNrSCSSPpGDp+KLIikSwO2L+lCfwFobS8WKQZu2noN9WV5ipxuLKjTaOvfojbcmu1i6FPrF8FEPa+oQBHdRyMYNLYyLF/nTGn2y7NBixG5dC7y2wsO4aXA1CKpzZUca8sBJUrSr9FqhTJMK37pOOZqMTeCIo+trbOMI1osTdzjD26auXrzETrP8OxsAt+HgvahLwDb4kRpR6lQOjBIj
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 91
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : MDLC_ModèleChamps1
+resources :
+ string_res :
+  identifier : 0x1a250e5700389aec
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

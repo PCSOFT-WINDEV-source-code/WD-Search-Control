@@ -1,0 +1,89 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Search Control
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : The purpose of the project is ...
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD GGL Search Control
+    internal_properties : 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
+    configuration_id : 6095342473810927415
+    type : 1
+    generation_name : WD Search Control.exe
+    version :
+     version : VI200066G
+    icon_filename : .\VST01061b.ico
+    language : 2
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAABCqsp2S46R1lRxx6NTTBV+aqD1pQBPIfL0qnUcUnlYogvGFcX5IygYiQN6NRNO0AmidF4t15CVi42n
+ elements :
+  identifier : 0x4c4d96dc001118ea
+  elements :
+   -
+     name : TEST_SearchArticles
+     identifier : 0x4c4d97480020bd43
+     internal_properties : CAAAAAgAAACvq4ebKFXdjlo6zxY6BRSwu/ryKq90zOWyEjahXKBqTo520vYr3WiO+yCaZi6iXlK6ug==
+     physical_name : .\TEST_SearchArticles.wxt
+     type : 17
+   -
+     name : WIN_SearchArticles
+     identifier : 0x4a13b8540002a9c7
+     internal_properties : CAAAAAgAAACEguzI96wEJz3RtpmtiaXJMGNfBz4bK9St1mVTopgEDOjmZGS4SN0FYscxjxfJsSeRkQ==
+     physical_name : .\WIN_SearchArticles.wdw
+     type : 2
+   -
+     name : QRY_Srch
+     identifier : 0x4a250e6b0002eaff
+     internal_properties : CAAAAAgAAAAsKgQQr9RcD8VpfqHl0v2x7Mk7IxgRWx5OTyt8cTXncU9Dy42AgBU9qp8Z568h2c85OQ==
+     physical_name : .\QRY_Srch.WDR
+     type : 5
+  other_elements : []
+  analysis : .\WD Search Control.ana\WD Search Control.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components :
+   -
+     physical_name : .\ManageFullTextKeyword\ManageFullTextKeyword.wci
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wd_style_sheet : .\WD GGL Search Control.sty
+ wb_style_sheet : .\WD GGL Search Control.wws
+ code_elements :
+  internal_properties : CAAAAAgAAADLUs/HXroeBQCqzmkkJsU9YjUVxz4vIdcsIz/cnk5YVCYcYuAgPbF9tTkgcBzmja0PRRjAGxrjvdaNsiHgphw=
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD GGL Search Control
+     identifier : 0x4c4d96dc00161957
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
